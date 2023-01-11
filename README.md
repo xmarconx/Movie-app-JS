@@ -1,7 +1,6 @@
-# Movie-app-ANG
+# Movie-app-JS
 
-
-Merhabalar, Sizlere Movie-app adında responsive bir html, css ve javascript template tanıtmak istiyorum. 
+Merhabalar, Sizlere Movie-app-JS adında responsive bir html, css ve javascript template tanıtmak istiyorum. 
 
 Projede slider, arama alanı, hesabım sekmesi ve mobile uyumlu olan bir responsive yapı bulunmaktadır.
 
